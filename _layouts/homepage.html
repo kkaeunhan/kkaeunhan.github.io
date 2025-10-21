@@ -43,8 +43,9 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
-        <p style="font-size:1.1rem; color:inherit; font-family:inherit; margin-top:-16px;">({{ site.nickname }})</p>
+        <h1> {{ site.title }}<br>
+        <span style="font-size:1.5rem;">({{ site.nickname }})</span>
+        </h1>
  
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -101,7 +102,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>© 2025 Kaeun Han. Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
 
       </section>
