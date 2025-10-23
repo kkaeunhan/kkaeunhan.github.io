@@ -12,5 +12,3 @@ I am a Ph.D. student at ...
 - **Machine Learning:** meta-learning, incremental learning, transfer learningx
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
