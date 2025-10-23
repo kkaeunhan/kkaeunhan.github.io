@@ -2,7 +2,7 @@ main:
 
   - title: "Image-based classification and Captioning Model for Recycling Used Clothing"
     description : Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/deeplearning_term_project.pdf
     code: https://github.com/Solvlytics/clothes-recycle-vision
     image: ./assets/img/term_project.jpg
 
