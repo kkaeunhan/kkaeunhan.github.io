@@ -1,19 +1,17 @@
 main:
-
   - title: "Image-based classification and Captioning Model for Recycling Used Clothing"
-    description : Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
+    description: Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
     pdf: ./assets/files/deeplearning_term_project.pdf
     code: https://github.com/Solvlytics/clothes-recycle-vision
     image: ./assets/img/term project.jpg
 
-  - title: "Image-based classification and Captioning Model for Recycling Used Clothing"
-    description : Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
+  - title: "Road Hazard Detection and Risk Estimation for Vulnerable Road Users"
+    description: Handled a full pipeline, from manually annotating road images to semantic segmentation and final risk prediction via regression.
     pdf: ./assets/files/deeplearning_term_project.pdf
-    code: https://github.com/Solvlytics/clothes-recycle-vision
     image: ./assets/img/term_project.jpg
 
-  - title: "Image-based classification and Captioning Model for Recycling Used Clothing"
-    description : Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
+  - title: "Situational Restaurant Recommendation via Review Crawling and Text Analysis"
+    description: Built a web service using LLM’s summarization and sentence generation abilities to extract users' emotions and situations from review data.
     pdf: ./assets/files/deeplearning_term_project.pdf
-    code: https://github.com/Solvlytics/clothes-recycle-vision
+    code: https://github.com/DE-Project1
     image: ./assets/img/term_project.jpg
