@@ -3,15 +3,15 @@ main:
     description: Developed a system integrating object detection and image captioning models to automate the classification and captioning of used clothing.
     pdf: ./assets/files/deeplearning_term_project.pdf
     code: https://github.com/Solvlytics/clothes-recycle-vision
-    image: ./assets/img/term project.jpg
+    image: ./assets/img/Term - Workflow.png
 
   - title: "Road Hazard Detection and Risk Estimation for Vulnerable Road Users"
     description: Handled a full pipeline, from manually annotating road images to semantic segmentation and final risk prediction via regression.
     pdf: ./assets/files/DE25 Project 2.pdf
-    image: ./assets/img/term_project.jpg
+    image: ./assets/img/pj2 - Workflow2.png
 
   - title: "Situational Restaurant Recommendation via Review Crawling and Text Analysis"
     description: Built a web service using LLM’s summarization and sentence generation abilities to extract users' emotions and situations from review data.
     pdf: ./assets/files/(DE25-T1) Project 1.pdf
     code: https://github.com/DE-Project1
-    image: ./assets/img/term_project.jpg
+    image: ./assets/img/pj1 - Workflow.png
