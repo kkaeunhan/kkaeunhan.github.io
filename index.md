@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, it’s nice to meet you. 🐬🫧~♥
+Hi, it’s nice to meet you. 🐬🫧~★
 My name is Kaeun Han (Ellen) and I am un undergraduate Student at the College of Artificial Intelligence, Ewha Womans University. 
 
 My research interests includes Computer Vision, Multimodal Learning, and NLP tasks using LLMs. 
