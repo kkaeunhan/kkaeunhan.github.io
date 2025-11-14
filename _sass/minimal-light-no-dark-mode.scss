@@ -169,7 +169,9 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
+        width: 180px;
+        height: 180px;
+        object-fit: cover;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -178,7 +180,8 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 8.00em;
+      width: 180px;
+      height: 180px;
     }
 
 h3, h4, h5, h6 {
@@ -233,7 +236,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  width:1100px;
   margin:0 auto;
 }
 
@@ -418,10 +421,11 @@ footer {
     top:52px;
   }
 
-
    .image.avatar img {
         border-radius: 100%;
-        width: 117px;
+        width: 180px;
+        height: 180px;
+        object-fit: cover;
         padding:20px;
       }
   #head1o2 {
@@ -477,7 +481,9 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 95px;
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
       padding:20px;
   }
   #head1o2 {
