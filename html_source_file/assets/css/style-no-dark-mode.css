@@ -54,13 +54,13 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
-.image.avatar { border-radius: 100%; }
+.image.avatar { border-radius: 2px; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 10px; width: 140px; height : 140px; object-fit : cover; padding: 5px; }
+.image.avatar img { border-radius: 2px; width: 180px; height : 180px; object-fit : cover; padding: 5px; }
 
-#header .image.avatar { margin: 0 0 1em 0; width: 140px; height : 140px;}
+#header .image.avatar { margin: 0 0 1em 0; width: 180px; height : 180px;}
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
