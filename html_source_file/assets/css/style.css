@@ -67,9 +67,9 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 100%; width: 45%; padding: 20px; }
+.image.avatar img { border-radius: 10px; width: 140px; height : 140px; object-fit : cover; padding: 5px; }
 
-#header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
+#header .image.avatar { margin: 0 0 1em 0; width: 140px; height : 140px;}
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
@@ -94,7 +94,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 960px; margin: 0 auto; }
+.wrapper { width: 1100px; margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -137,7 +137,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 650px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
+section { width: 1000px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
 
 small { font-size: 11px; }
 

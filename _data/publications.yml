@@ -7,11 +7,11 @@ main:
 
   - title: "Road Hazard Detection and Risk Estimation for Vulnerable Road Users"
     description: Handled a full pipeline, from manually annotating road images to semantic segmentation and final risk prediction via regression.
-    pdf: ./assets/files/deeplearning_term_project.pdf
+    pdf: ./assets/files/DE25 Project 2.pdf
     image: ./assets/img/term_project.jpg
 
   - title: "Situational Restaurant Recommendation via Review Crawling and Text Analysis"
     description: Built a web service using LLM’s summarization and sentence generation abilities to extract users' emotions and situations from review data.
-    pdf: ./assets/files/deeplearning_term_project.pdf
+    pdf: ./assets/files/(DE25-T1) Project 1.pdf
     code: https://github.com/DE-Project1
     image: ./assets/img/term_project.jpg
