@@ -14,4 +14,4 @@ main:
     description: Built a web service using LLM’s summarization and sentence generation abilities to extract users' emotions and situations from review data.
     pdf: ./assets/files/Data Engineering Project 1 - English Version.pdf
     code: https://github.com/DE-Project1
-    image: ./assets/img/Wallpaper3.jpg
+    image: ./assets/img/Wallpaper3.png
