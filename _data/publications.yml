@@ -7,7 +7,7 @@ main:
 
   - title: "Road Hazard Detection and Risk Estimation for Vulnerable Road Users"
     description: Handled a full pipeline, from manually annotating road images to semantic segmentation and final risk prediction via regression.
-    pdf: ./assets/files/DE25 Project 2.pdf
+    pdf: ./assets/files/Data Engineering Project 2 - English Version.pdf
     image: ./assets/img/Wallpaper2.png
 
   - title: "Situational Restaurant Recommendation via Review Crawling and Text Analysis"
