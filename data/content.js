@@ -24,9 +24,9 @@ window.SITE = {
      <a href="https://www.eventim.com/" target="_blank" rel="noopener">Eventim USA</a>.`,
 
     `My research interests lie at the intersection of computer vision and machine learning,
-     particularly 3D vision and generative models. More recently, I have been interested in
-     world models and physical simulation through exposure to digital twins in industry.
-     My goal is to build models that understand the physical world and support practical
+     with a particular focus on 3D vision and generative models. More recently, I have become
+     interested in world models and physical simulation through my work on digital twins in industry.
+     My goal is to build models that understand the physical world and enable practical
      intelligence in robotics.`,
 
     `If you have any questions or suggestions, please feel free to contact me via email
