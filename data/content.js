@@ -25,7 +25,7 @@ window.SITE = {
 
     `My research interests lie at the intersection of computer vision and machine learning,
      with a particular focus on 3D vision and generative models. More recently, I have become
-     interested in world models and physical simulation through my work on digital twins in industry.
+     interested in world models and physical simulation through my exposure to digital twins in industry.
      My goal is to build models that understand the physical world and enable practical
      intelligence in robotics.`,
 
